@@ -52,5 +52,3 @@ headerlabel = Label(mainWindow, text = 'left ctrl + 1', font = ('Racing Sans One
 mainWindow.bind('<Control_L><1>', kshowCal2021)
 
 mainWindow.mainloop()
-
-# test
